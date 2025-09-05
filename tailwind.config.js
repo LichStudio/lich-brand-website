@@ -5,10 +5,11 @@ export default {
     extend: {
       fontFamily: {
         zentry: ["zentry", "sans-serif"],
-        general: ["general", "sans-serif"],
-        "circular-web": ["circular-web", "sans-serif"],
+        general: ["glock-grotesque", "sans-serif"],
+        "circular-web": ["glock-grotesque", "sans-serif"],
         "robert-medium": ["robert-medium", "sans-serif"],
-        "robert-regular": ["robert-regular", "sans-serif"],
+        "robert-regular": ["glock-grotesque", "sans-serif"],
+        "glock-grotesque": ["glock-grotesque", "sans-serif"],
       },
       colors: {
         blue: {
